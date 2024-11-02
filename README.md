@@ -1,7 +1,7 @@
 <h1 align="center" style="color: white;">Hi 👋, I'm Abdul-Qudus Olanrewaju</h1>
 <h3 align="center" style="color: gray;">A passionate Software Developer with a love for creating dynamic and easy-to-consume API. I thrive on solving complex problems and pushing the boundaries of what's possible on the web</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qudusa&label=Profile%20views&color=ffffff&style=flat" alt="qudusa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qudusa&label=Profile%20views&color=000000&style=flat" alt="qudusa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qudusa&theme=darkhub" alt="qudusa" /></a> </p>
 
@@ -21,10 +21,6 @@
 </p>
 
 <!-- Programming Languages and Tools Sections -->
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qudusa&show_icons=true&locale=en&layout=compact&theme=dark" alt="qudusa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qudusa&show_icons=true&locale=en&theme=dark" alt="qudusa" /></p>
 <h3 align="center">Languages and Tools:</h3>
 <!-- Programming Languages -->
 <h4 align="center">Programming Languages</h4>
@@ -92,4 +88,6 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qudusa&show_icons=true&locale=en&layout=compact&theme=dark" alt="qudusa" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qudusa&show_icons=true&locale=en&theme=dark" alt="qudusa" /></p>

@@ -1,5 +1,5 @@
 <h1 align="center" style="color: white;">Hi 👋, I'm Abdul-Qudus Olanrewaju</h1>
-<h3 align="center" style="color: gray;">A passionate Software Developer, I'm a vibrant and articulate problem-solver with experience in writing well-designed, tested, and efficient code for the development of backend applications utilizing JavaScript, TypeScript, NestJs and Node.js. I thrive on solving complex problems and pushing the boundaries of what's possible on the web</h3>
+<h3 align="center" style="color: gray;">A passionate Software Developer, I'm a vibrant and articulate problem-solver with experience in writing well-designed, tested, and efficient code for the development of backend applications utilizing JavaScript, TypeScript, NestJs, Node.js, Java and SpringBoot. I thrive on solving complex problems and pushing the boundaries of what's possible on the web.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qudusa&label=Profile%20views&color=000000&style=flat" alt="qudusa" /> </p>
 

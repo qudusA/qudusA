@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qudusa&theme=darkhub" alt="qudusa" /></a> </p>
 
+##
+
 - 🌱 What I’m currently working on **Building a sleek and scalable Nest.js TypeScript app, where I’m exploring best practices for testing, production checks, and optimization.**
 
 - 📚 What I’m learning/Improving on: **Getting my hands dirty with data structures, algorithms, and frontend concepts to level up my full-stack game**
@@ -14,6 +16,8 @@
 - 🛠️ What I’m looking to grow in **Diving deeper into frontend development and web3 technologies—there’s so much exciting potential in blockchain, and I’m eager to master it!**
 
 - 🎉 Fun Facts about me **- I love mentoring budding developers—there’s nothing better than sharing what I’ve learned with others and seeing them succeed. - Gaming is my creative outlet, and it helps me think outside the box when tackling complex problems. - I’ve built decentralized platforms like Plebbit (a Reddit alternative!) and am fascinated by how technology can reshape online communities.**
+
+##
 
 <h3 align="left" style="color: white;">Connect with me:</h3>
 <p align="left">

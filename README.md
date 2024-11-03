@@ -59,6 +59,11 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 
+### Template Engine
+[![Pug](https://img.shields.io/badge/Pug-A86454?style=flat-square&logo=pug&logoColor=white)](https://pugjs.org)
+[![EJS](https://img.shields.io/badge/EJS-Template%20Engine-blue)](https://ejs.co/)
+[![Handlebars](https://img.shields.io/badge/Handlebars-Template%20Engine-orange)](https://handlebarsjs.com/)
+
 ### Other Technologies
 [![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black)](https://babeljs.io/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
@@ -66,7 +71,6 @@
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org)
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)](https://www.mathworks.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://postman.com)
-[![Pug](https://img.shields.io/badge/Pug-A86454?style=flat-square&logo=pug&logoColor=white)](https://pugjs.org)
 [![BullMQ](https://img.shields.io/badge/BullMQ-FF0000?style=flat-square&logo=bullmq&logoColor=white)](https://docs.bullmq.io/)
 [![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)](https://webpack.js.org)
 
